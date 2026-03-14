@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Adapted from KubaP/vscode-pink-candy"]
 description = "A vivid pink accent dark theme, ported from the VS Code Pink Candy theme by KubaP. Features a striking #FF1277 pink accent with a carefully balanced dark palette."
-repository = "https://github.com/peve/pink-candy-theme"
+repository = "https://github.com/paulovictor237/pink-candy-theme"
