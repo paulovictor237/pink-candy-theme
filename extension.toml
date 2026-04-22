@@ -1,6 +1,6 @@
 id = "pink-candy-theme"
 name = "Pink Candy"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["Adapted from KubaP/vscode-pink-candy"]
 description = "A vivid pink accent dark theme, ported from the VS Code Pink Candy theme by KubaP. Features a striking #FF1277 pink accent with a carefully balanced dark palette."
